@@ -34,8 +34,18 @@ hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ce6a793b859749d058cba99a77657f2b779af8e50f0ba80061a9aec8ca95fb04"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "90de023b54d15536a49e98bd4b79319940381bad60e8ca9798a4f5468b9b156f"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "2d1c87119e21b0af1a6267cd61a27e36a797188b20a911ac319acdbf0384946c"
 metafile = true
 
 [[files]]
@@ -46,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
+metafile = true
+
+[[files]]
+file = "mods/capybara-fabric.pw.toml"
+hash = "5849beece9be8e990e663f4e97da5246bddbd7c0450d7a54bb7abd869a3e6dad"
 metafile = true
 
 [[files]]
@@ -60,7 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
 
 [[files]]
@@ -95,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
 metafile = true
 
 [[files]]
@@ -109,8 +129,23 @@ hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f29e7e0c05dfa976e14613ef7d726909ef6e406bb2338ad4f434f1bf83f898d6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "a01b9558d05148791fa2423781bd6d72778a48a1bc4da072d9dc55e417e26bf3"
+metafile = true
+
+[[files]]
+file = "mods/grims-transportables.pw.toml"
+hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
 metafile = true
 
 [[files]]
@@ -141,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "3dbddba4f0988ee87a0ea5966fb670bf5313836f1d3f9cd4619bc0019c340f06"
 metafile = true
 
 [[files]]
@@ -184,6 +224,11 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "bb959c50d3f49c2d003db5cd6c3a851b8360f6b1319e4f6feb9e5d5828d799ee"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "91b558433050a895a6f5b526fc401163821a539ea243d78a629763f15c5d8dc7"
 metafile = true
@@ -196,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "a699a941a8354f49dded3e15a08603f3c134ef861ee4bf38960911cfc020c583"
 metafile = true
 
 [[files]]
@@ -224,8 +274,18 @@ hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
+metafile = true
+
+[[files]]
 file = "mods/vtdownloader.pw.toml"
 hash = "23c73f09141fa81161872c7549725eefc0ee85187bcc86e50d2513c17eeb71bf"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
 metafile = true
 
 [[files]]
