@@ -214,6 +214,11 @@ hash = "621f1b552bda5c12b9b9d85275364c0babb9c0a473781b308e69dfeb88e7e811"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "55611bc2beaf17f1b2955a8fd32c686233d8cbcaf40256c2f382f4e8ba9b816b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
