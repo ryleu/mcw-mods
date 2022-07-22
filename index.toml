@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "e069d5130c543fdfe06368fe19a3a4877a2bd4cac471e622da057d8dca3851a8"
+hash = "396f3917d3b9a77238e7fb8d1a330555f6dfbc37d7a8f9eeaa09bc256ccea4b3"
 metafile = true
 
 [[files]]
@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+hash = "4f3893d204309dcbcfce95c532cbd803ae3892dec17fa3356676cc4d557d7d55"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
+hash = "a78da30f4c6574e2e110f41646043918126c9368a283113e0037a5b38b6c8ece"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "d16e0db41806840dc72dfa44174896e088dd325249fc17ca0dac69af9fdc0518"
+hash = "07fe98fb65b17e13acf933562cdc0c4b25df96b8220b026e736b507d2b1ed453"
 metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "379a2c793f5f3f31b06581ba86de7ae4f32f401b466fb4dd684d6a7596df2fbf"
+hash = "8873598ad8deb3cb74e75275de6b4106f67b987e616ded42ee26dcb00bea0b37"
 metafile = true
 
 [[files]]
@@ -90,22 +90,22 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+hash = "d726afca73fa552521bb04d1de6bb57e7a94d3e7fb2b156e4577735c674b42eb"
 metafile = true
 
 [[files]]
 file = "mods/dcwa.pw.toml"
-hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
+hash = "245578c7dd0e130e320d617f5f2a7eada97184ce19239fbc4da4ff82aec2de70"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+hash = "264352104ecf022d16208fd6534a464e6b33dedf2bbc37c90ff96ceed4b9c094"
 metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "6cb34219f7edaae938e9f4edabe1ee15742c6784d59dc97fc3e6df4a5e24d850"
+hash = "080ccae701a721a100dc61c347d590c1f23e3edb87c57cf638ad68c4418f1f87"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "f01d3f9aa3d496e168c742b298efa9744eb868eb8a6c3c7ec91c06e704020af5"
+hash = "b80ef0cc40c9cd66e5d358d6a9e610484816e02656201a7dbcfc3660d14ce430"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
+hash = "2f9f85dcff3c6f98dbe06b0b36058443704289c5c60e0fe53d45bd26ad499d70"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "98636842c7796a1d77f314db1cef41c00156b76a655a5e42b674b8338c01aed8"
 metafile = true
 
 [[files]]
@@ -175,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+hash = "9e4b9d8e2d0f629a6cb7a2625513ee02a25baad32ce6b953df8afcfb8ac6ff69"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+hash = "c5ed8ffc6ce8b5fb7fa848448d047eb6bd6f5cb5dbcf8bc8bb79656c1db62fc4"
 metafile = true
 
 [[files]]
