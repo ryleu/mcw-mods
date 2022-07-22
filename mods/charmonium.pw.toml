@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0+1.19/charmonium-fab
 hash-format = "sha1"
 hash = "b2c270fdf3a497d5e6997331690521eb94deeb91"
 
+[option]
+optional = true
+default = true
+description = "Adds ambient sounds"
+
 [update]
 [update.modrinth]
 mod-id = "bpii4Xsa"

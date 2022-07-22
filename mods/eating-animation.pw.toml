@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/1.8.1/eating-animation-1.
 hash-format = "sha1"
 hash = "dd1271fb4debf624865f821947f853716e281bae"
 
+[option]
+optional = true
+default = true
+description = "Adds eating animations to 1st person"
+
 [update]
 [update.modrinth]
 mod-id = "rUgZvGzi"

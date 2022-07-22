@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/HdwRs3kc/versions/3.0/DisableCustomWorldsAd
 hash-format = "sha1"
 hash = "99e87f4cb9a1cd2c3f7ce635b5db73e0f03e141c"
 
+[option]
+optional = true
+default = true
+description = "Disables custom world advice"
+
 [update]
 [update.modrinth]
 mod-id = "HdwRs3kc"

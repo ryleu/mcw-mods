@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.3.0+1.19/lambdabettergr
 hash-format = "sha1"
 hash = "95847e7ac49fbccb679f7e8ede37835a0cd65bf2"
 
+[option]
+optional = true
+default = true
+description = "Makes grass look prettier"
+
 [update]
 [update.modrinth]
 mod-id = "2Uev7LdA"

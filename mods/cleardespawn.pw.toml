@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/1.1.8/ClearDespawn-fabric
 hash-format = "sha1"
 hash = "0b50de1b42b51622f663fe74471915e3e4e29070"
 
+[option]
+optional = true
+default = true
+description = "Makes it obvious when items are about to despawn"
+
 [update]
 [update.modrinth]
 mod-id = "yoJJjRRE"

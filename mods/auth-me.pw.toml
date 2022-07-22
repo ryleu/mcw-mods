@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/4.0.0/authme-mc1.19-4.0.0
 hash-format = "sha1"
 hash = "80c24c994671d190c0b36b73f876fbe88a22ea6d"
 
+[option]
+optional = true
+default = true
+description = "Lets you re-authenticate without closing the game"
+
 [update]
 [update.modrinth]
 mod-id = "yjgIrBjZ"
