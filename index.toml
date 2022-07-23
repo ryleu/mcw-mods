@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+hash = "687c990488f1d9164f01c1daa3e7b1019c575413eeaf1838e32e7d2c5b6d2dd4"
 metafile = true
 
 [[files]]
@@ -276,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "8428b4d38b10346676919100bcd049bf7a3e8fa7494fe25970d669e2dfdb61ed"
 metafile = true
 
 [[files]]
