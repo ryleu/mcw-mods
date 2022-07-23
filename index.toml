@@ -89,11 +89,6 @@ hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "d726afca73fa552521bb04d1de6bb57e7a94d3e7fb2b156e4577735c674b42eb"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "245578c7dd0e130e320d617f5f2a7eada97184ce19239fbc4da4ff82aec2de70"
 metafile = true
