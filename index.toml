@@ -24,13 +24,23 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
+hash = "fc4115abd76427cfdf203686d8a3b4c333dec62a6a0e243ceef27b9c3eacb09c"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "62bee32b71423201eba5f424e6adf4945bc20410cd53ca4ce293000ad4b958af"
 metafile = true
 
 [[files]]
@@ -54,6 +64,11 @@ hash = "2d1c87119e21b0af1a6267cd61a27e36a797188b20a911ac319acdbf0384946c"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "4f3893d204309dcbcfce95c532cbd803ae3892dec17fa3356676cc4d557d7d55"
 metafile = true
@@ -61,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "a78da30f4c6574e2e110f41646043918126c9368a283113e0037a5b38b6c8ece"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "63598706a76407f3a1e53b32416fff8f171f7e8777602a1fc799f1b3656b8e4b"
 metafile = true
 
 [[files]]
@@ -151,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "d95061fc5e8c8f7fbde1322146a6272bebd37b4cf2ce367617c8dee52585291c"
 metafile = true
 
 [[files]]
@@ -289,6 +314,11 @@ hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "04119a476bbae1307d74e02b38e7d381f0224474714c1e951ed851fe20caca58"
 metafile = true
@@ -301,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a7cf5a7860611b5e26ecddebe5772fe92357939b869c0d567519f79cf3d2d296"
 metafile = true
 
 [[files]]
