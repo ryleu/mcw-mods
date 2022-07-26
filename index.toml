@@ -24,6 +24,11 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "774862b7e10b2cdd5163b6964740ad3b8ec186eca488639de423250a7557b1f5"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
 metafile = true
@@ -51,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ce6a793b859749d058cba99a77657f2b779af8e50f0ba80061a9aec8ca95fb04"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "53bdc19f0cc33dfa6168e05ec326a0215a0ec5b978ae1dc4beb5441325ece3c9"
 metafile = true
 
 [[files]]
@@ -271,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+metafile = true
+
+[[files]]
+file = "mods/reaping.pw.toml"
+hash = "4df8b62028478a17069bacdc70674a3f570deafbb5f5931a7995c6778694c7e4"
 metafile = true
 
 [[files]]
