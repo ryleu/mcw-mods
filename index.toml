@@ -269,6 +269,11 @@ hash = "bb959c50d3f49c2d003db5cd6c3a851b8360f6b1319e4f6feb9e5d5828d799ee"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "687c990488f1d9164f01c1daa3e7b1019c575413eeaf1838e32e7d2c5b6d2dd4"
 metafile = true
