@@ -50,17 +50,17 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "396f3917d3b9a77238e7fb8d1a330555f6dfbc37d7a8f9eeaa09bc256ccea4b3"
+hash = "cc08554ddce3be3735b3e1f99c8ec7a09bac50cb2e16a84c7deadf354f84fefc"
 metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "ce6a793b859749d058cba99a77657f2b779af8e50f0ba80061a9aec8ca95fb04"
+hash = "80ffacd833db4ee0dbc48699f31074652cbc74e39b59218660d346ae103b3995"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "53bdc19f0cc33dfa6168e05ec326a0215a0ec5b978ae1dc4beb5441325ece3c9"
+hash = "00591d6df45083473da862e79e7d25bb207bec5e841167a586e57dde2d2bcd7b"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "2d1c87119e21b0af1a6267cd61a27e36a797188b20a911ac319acdbf0384946c"
+hash = "6b49c387c07bc652706c0de25ea5045d4b299e44b0d9db0eb76c2e4fa91dd6a5"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
+hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "080ccae701a721a100dc61c347d590c1f23e3edb87c57cf638ad68c4418f1f87"
+hash = "d715152ad1300b6f7dc00c54480e5030646d7560d9cf025a18100a0f8a5247b1"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.pw.toml"
-hash = "c2e4dfddc44caa65827c1566f53ce0d90c63abad8a01c9b55babe2730c2f9bfc"
+hash = "125b446a5760cb42a013c3774ea39f83dbda222c0154a3eac3867462bee87881"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "91b558433050a895a6f5b526fc401163821a539ea243d78a629763f15c5d8dc7"
+hash = "1b9992340de072c10a03628a1257be160c66808dfff0a557c63b3cd3e9a40a82"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
+hash = "84c366e5f0d189b5e677d254ea1efb61e12ef4e354079fe33d637c754a1571e7"
 metafile = true
 
 [[files]]
