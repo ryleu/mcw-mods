@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtdb.pw.toml"
-hash = "7cba5e8c7303c1003e7f76e06512c3e1a2e95f04855dfee8b7e8f0c9504d0b72"
+hash = "81a701ccb53692a1b4c7fca84641334b7633b54883122cce94373ee80748d210"
 metafile = true
 
 [[files]]

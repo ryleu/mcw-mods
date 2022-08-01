@@ -1,13 +1,13 @@
 name = "Mending Tools Don't Break"
-filename = "mending-tools-dont-break-1.0.0.jar"
+filename = "mending-tools-dont-break-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3OMYe48S/versions/1.0.0/mending-tools-dont-break-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/3OMYe48S/versions/1.1.0/mending-tools-dont-break-1.1.0.jar"
 hash-format = "sha1"
-hash = "ee08bff6bcd9d538cf05adb7ce24e085db063a1c"
+hash = "9a4f0d1b34cc03c6c0451c307b0d76874288afef"
 
 [update]
 [update.modrinth]
 mod-id = "3OMYe48S"
-version = "fqRCRHoe"
+version = "bK4My4ay"
