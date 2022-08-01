@@ -179,6 +179,11 @@ hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
 metafile = true
 
 [[files]]
+file = "mods/harvest-scythes.pw.toml"
+hash = "0f416da00d5aea40de1d7d38ca2512a30edc853b1f750e87a05ea43c915e21e4"
+metafile = true
+
+[[files]]
 file = "mods/hookshot.pw.toml"
 hash = "81011c800f5233b543facf1072ecf59a67a3f49fde819e6dd40b1aba1f85b9ee"
 metafile = true
@@ -289,6 +294,11 @@ hash = "91b558433050a895a6f5b526fc401163821a539ea243d78a629763f15c5d8dc7"
 metafile = true
 
 [[files]]
+file = "mods/pling.pw.toml"
+hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
@@ -300,7 +310,17 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
+hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "12910e7c18acdec141ea11f19bf297169cd0fbd58c709e4868cc32cbe7ef1dab"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
@@ -356,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
+metafile = true
+
+[[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "25d3acb2af34103a6daf384ccac070f7edb00d9dcc5519533cf631f416a00910"
 metafile = true
 
 [[files]]
