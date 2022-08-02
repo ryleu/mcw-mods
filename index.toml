@@ -314,6 +314,11 @@ hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d37ba9ec9e5217309c4d625fc755ce6f4b48b3326250600336c535979789f3fc"
+metafile = true
+
+[[files]]
 file = "mods/qu-enchantments.pw.toml"
 hash = "8ac414488ac78b04ad51c9243335d63ec30082cf717d111bb22c7bcc54eb0bec"
 metafile = true
