@@ -134,6 +134,11 @@ hash = "080ccae701a721a100dc61c347d590c1f23e3edb87c57cf638ad68c4418f1f87"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "1e6053ff899e8bd95d69de3460f4614ee905b9316330f98549aae0602d244a2b"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+metafile = true
+
+[[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "8ac414488ac78b04ad51c9243335d63ec30082cf717d111bb22c7bcc54eb0bec"
 metafile = true
 
 [[files]]
