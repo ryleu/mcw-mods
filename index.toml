@@ -249,6 +249,11 @@ hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "b85ad0c7c956606901ccb0323ed0fb0045459732ccf51d3e68a211cccb461879"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "2facc32153e3634a07946bf145253ef0a59571d0f2abeececfe16cab2f9f7394"
 metafile = true
