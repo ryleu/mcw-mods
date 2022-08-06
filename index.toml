@@ -404,6 +404,11 @@ hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
 metafile = true
 
 [[files]]
+file = "mods/wireless-networks.pw.toml"
+hash = "8ec706e7625d29539d8eecf0a8c6d4921e029daba5c08d6880961842ac3fb129"
+metafile = true
+
+[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "25d3acb2af34103a6daf384ccac070f7edb00d9dcc5519533cf631f416a00910"
 metafile = true
