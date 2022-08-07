@@ -299,6 +299,11 @@ hash = "bb959c50d3f49c2d003db5cd6c3a851b8360f6b1319e4f6feb9e5d5828d799ee"
 metafile = true
 
 [[files]]
+file = "mods/online-detector.pw.toml"
+hash = "61cb01a9d8b1fe6972eaac9094b7718f1032c55e4b33c0ff6c3aa172261248d4"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
 metafile = true
