@@ -134,6 +134,11 @@ hash = "d715152ad1300b6f7dc00c54480e5030646d7560d9cf025a18100a0f8a5247b1"
 metafile = true
 
 [[files]]
+file = "mods/eden-ring.pw.toml"
+hash = "83bc6beb12871fe71523c4bd67ab2d94b7fa13ede9051dbdfac195d319955add"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "1e6053ff899e8bd95d69de3460f4614ee905b9316330f98549aae0602d244a2b"
 metafile = true
