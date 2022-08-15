@@ -259,6 +259,11 @@ hash = "ceecc79a1a61c443371d333ea6c7dd8c87e0e0b4bd96d3d8848beb6d377052fd"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "a70764358501f7bb3505df73ca79f46251e1d0144287eae55c8cf49fd27492c8"
 metafile = true
@@ -396,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "9e5768485b90537cfac946d9bd8c302050f7a5a802302aad5337cbad55416073"
 metafile = true
 
 [[files]]
