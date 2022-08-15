@@ -6,7 +6,7 @@ hash = "1de266c35e8e5b9b747747786ec642d3a133e72ee09fb625daf2262c0db32de5"
 
 [[files]]
 file = "README.md"
-hash = "b77ed7921f3d824ff9ba166e2df581dcccfb539694d50f468e41e4a97f50f91f"
+hash = "d0b9e1acaf70ba4d016270ef048984fef107aeff9f9499e3beaf0425b9ddadef"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -59,6 +59,11 @@ hash = "0c2703bbc8f46fe76dead6fc276fba1f4af877e63db4157f5c9eedc9065dbd9b"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "e6594654ecc0cb73faef21d6d434cdd5382d28ca7b58aa20d9b97101127b3452"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "2f651d0f178a985a25a1721cc32d2c4eef04d513aca323622115930de2986338"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "a78da30f4c6574e2e110f41646043918126c9368a283113e0037a5b38b6c8ece"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "69fbd5258464b60fda1da6530dd036433833e3f1a02984c2c46a660e3ce8085f"
 metafile = true
 
 [[files]]
@@ -144,8 +154,18 @@ hash = "1e6053ff899e8bd95d69de3460f4614ee905b9316330f98549aae0602d244a2b"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "28fa30b850d3a8ed828cd65ee12e1ead7d3fec9a610eb969c0f3a62de485727a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "bafd39266238b92226a1fb61700015fc87fba25ce3a8ea4781d6d311079979d9"
 metafile = true
 
 [[files]]
@@ -416,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "04119a476bbae1307d74e02b38e7d381f0224474714c1e951ed851fe20caca58"
+metafile = true
+
+[[files]]
+file = "mods/victus.pw.toml"
+hash = "efb4fa29713415c8299922363094cb692cd0bc6f88bc2f29f40d2fd4841b757e"
 metafile = true
 
 [[files]]
