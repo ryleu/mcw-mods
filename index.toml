@@ -104,6 +104,11 @@ hash = "d62f142a27f0a25f29115eb743b92e591bc067aca11bb8a92ff5e6c7124d35f1"
 metafile = true
 
 [[files]]
+file = "mods/cammies-minecart-tweaks.pw.toml"
+hash = "83f23d00c18dc598e665204545aa8a4736d2ef4f3da8a4c73690790481a80a6a"
+metafile = true
+
+[[files]]
 file = "mods/capybara-fabric.pw.toml"
 hash = "5849beece9be8e990e663f4e97da5246bddbd7c0450d7a54bb7abd869a3e6dad"
 metafile = true
