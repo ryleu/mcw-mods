@@ -99,11 +99,6 @@ hash = "69fbd5258464b60fda1da6530dd036433833e3f1a02984c2c46a660e3ce8085f"
 metafile = true
 
 [[files]]
-file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "630f2a08fec8cbd13578bdd277bf664563c81ce94d1095b0a8e2a71f80819251"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "d62f142a27f0a25f29115eb743b92e591bc067aca11bb8a92ff5e6c7124d35f1"
 metafile = true
