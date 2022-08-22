@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d919e20389aac153e22aa355b027d7bff8d80651bf078cfcbde333d250c4bacd"
+hash = "3e4a24a9b4d21f00e3a79f5806ede395790cdd5e83371017b7aa64a8106de23e"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/eden-ring.pw.toml"
-hash = "83bc6beb12871fe71523c4bd67ab2d94b7fa13ede9051dbdfac195d319955add"
+hash = "ad342f2db7c64b4ff6d9d44eb595ccb02c0d580426add6d255d1035091b3a9b8"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "2f9f85dcff3c6f98dbe06b0b36058443704289c5c60e0fe53d45bd26ad499d70"
+hash = "36d6de4b1b97cd0945483fcfff067cf04d02aa82d051f54777509c8aff704e86"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "bd5f16467656bcbb864cccc066e528d0721a4232bb18b26cabaa93d35998b9fb"
+hash = "5f850670cb5306b75633e55fe9319c7a0448b9ef2b15449b7d1b7fd56ba7e775"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
+hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
+hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
-hash = "987306a01140d40c71b9b29ce35a5d47b0956eaa4796ef5fb150749facd7adaf"
+hash = "258de85b7825113bdcc4b6dd642ac0cccd101d42acdc2e8a0ec2851a12b9ad71"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "9e5768485b90537cfac946d9bd8c302050f7a5a802302aad5337cbad55416073"
+hash = "668f139c70eedafe21bbf7ebf56e290f6dc2754ca109b669213161046547defa"
 metafile = true
 
 [[files]]
