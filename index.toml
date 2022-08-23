@@ -189,11 +189,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/extraalchemy.pw.toml"
-hash = "bafd39266238b92226a1fb61700015fc87fba25ce3a8ea4781d6d311079979d9"
-metafile = true
-
-[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "b80ef0cc40c9cd66e5d358d6a9e610484816e02656201a7dbcfc3660d14ce430"
 metafile = true
