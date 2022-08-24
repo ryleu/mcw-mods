@@ -1,11 +1,11 @@
-name = "Complementary Shaders"
+name = "Complementary Shaders v4"
 filename = "ComplementaryShaders_v4.5.1.zip"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "92a5b20fe8780e76b2a1f822f38e2a34af3f4bae"
-mode = "metadata:curseforge"
+hash-format = "md5"
+hash = "ce667e249793b317b390c30d921c2492"
+url = "https://mediafiles.forgecdn.net/files/3856/409/ComplementaryShaders_v4.5.1.zip"
 
 [update]
 [update.curseforge]
