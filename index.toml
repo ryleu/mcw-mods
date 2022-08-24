@@ -536,4 +536,3 @@ metafile = true
 file = "shaderpacks/complementary-shaders.pw.toml"
 hash = "309bb1f617f3667e8258e66a7608248fbcf2a635209067537803fa0988194731"
 metafile = true
-preserve = true
