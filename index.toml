@@ -9,6 +9,10 @@ file = "README.md"
 hash = "d0b9e1acaf70ba4d016270ef048984fef107aeff9f9499e3beaf0425b9ddadef"
 
 [[files]]
+file = "config/eldritch_mobs.json5"
+hash = "f73f1f41b6c06b402c58090ddf4bac0482099b3ea51aaaf2581984181d7352bf"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -527,3 +531,9 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders.pw.toml"
+hash = "309bb1f617f3667e8258e66a7608248fbcf2a635209067537803fa0988194731"
+metafile = true
+preserve = true
