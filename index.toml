@@ -139,6 +139,11 @@ hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7731098ded77d0aa8a3c1ecab8a5691fa68421de71a452be1bdd17d6d017f67f"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "9016821ee80045ed29e8fba7259faec44b45b3a42e7e502cb25309da5259d677"
 metafile = true
@@ -186,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "bafd39266238b92226a1fb61700015fc87fba25ce3a8ea4781d6d311079979d9"
 metafile = true
 
 [[files]]
