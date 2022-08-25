@@ -1,0 +1,14 @@
+name = "Tweaks Resource Pack"
+filename = "VanillaTweaks_r328374.zip"
+side = "client"
+
+[download]
+# https://vanillatweaks.net/share#4c22Km
+url = "https://vanillatweaks.net/download/VanillaTweaks_r351836.zip"
+hash-format = "sha1"
+hash = "b81d3e058ac145f7286ef3a8a0760c5aa44cc6e8"
+
+[option]
+optional = true
+description = "Makes some slight tweaks to select vanilla textures"
+default = true

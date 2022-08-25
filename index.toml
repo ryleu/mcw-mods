@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "1de266c35e8e5b9b747747786ec642d3a133e72ee09fb625daf2262c0db32de5"
 
 [[files]]
-file = "README.md"
-hash = "d0b9e1acaf70ba4d016270ef048984fef107aeff9f9499e3beaf0425b9ddadef"
-
-[[files]]
 file = "config/eldritch_mobs.json5"
 hash = "f73f1f41b6c06b402c58090ddf4bac0482099b3ea51aaaf2581984181d7352bf"
 
@@ -493,11 +489,6 @@ hash = "efb4fa29713415c8299922363094cb692cd0bc6f88bc2f29f40d2fd4841b757e"
 metafile = true
 
 [[files]]
-file = "mods/vtdownloader.pw.toml"
-hash = "23c73f09141fa81161872c7549725eefc0ee85187bcc86e50d2513c17eeb71bf"
-metafile = true
-
-[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "8b733738c3b63eef68df0dc08a0b0517dc7d14acf45d6a00c8cd1faedfbccd05"
 metafile = true
@@ -530,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tweaks.pw.toml"
+hash = "1c9fc1406ef521a5a0537a4a539fce11b3809dc21a9a2f07583ce762f7d4360c"
 metafile = true
 
 [[files]]
