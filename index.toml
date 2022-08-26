@@ -433,6 +433,11 @@ hash = "8be12f26f3c35e22f25ba22c8f0904293a5af82707792890302e5b3671517497"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "349a8422024723bf3efbdbff582587ef02a07585e5d17cf98189374a42f6cb78"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
 metafile = true
