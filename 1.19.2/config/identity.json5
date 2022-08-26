@@ -55,7 +55,7 @@
   //If true, the player has to kill a certain number of entities before unlocking an Identity.
   "killForIdentity": true,
   //Number of kills required to unlock an Identity if killsForIdentity is true.
-  "requiredKillsForIdentity": 25,
+  "requiredKillsForIdentity": 30,
   //If true, players with the Warden Identity will have a shorter view range with the darkness effect.
   "wardenIsBlinded": true,
   //If true, players with the Warden Identity will blind other nearby players.
@@ -63,8 +63,12 @@
   //An override map for requiredKillsForIdentity for specific entity types.
   "requiredKillsByType": {
     "minecraft:elder_guardian": 3,
-    "minecraft:wither": 3,
-    "minecraft:ender_dragon": 3
+    "minecraft:wither": 5,
+    "minecraft:ender_dragon": 3,
+    "bosses_of_mass_destruction:lich": 3,
+    "bosses_of_mass_destruction:obsidilith": 3,
+    "bosses_of_mass_destruction:gauntlet": 3,
+    "bosses_of_mass_destruction:void_blossom": 3
   },
   "abilityCooldownMap": {
     "minecraft:blaze": 20,
