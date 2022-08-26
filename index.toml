@@ -10,7 +10,7 @@ hash = "f73f1f41b6c06b402c58090ddf4bac0482099b3ea51aaaf2581984181d7352bf"
 
 [[files]]
 file = "config/identity.json5"
-hash = "bffdbe9bc5b4417ac90bafc24c1971b64b76f33fef8e9270da9f8ef5f82ba0eb"
+hash = "b8a0debdcdadcbee9b4cce8be171525f1c87ea208d893fc559856e9861b392a1"
 
 [[files]]
 file = "mods/adorn.pw.toml"
