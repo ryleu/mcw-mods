@@ -3,6 +3,6 @@ filename = "identity-2.5.1-1.19.1-fabric.zip"
 side = "both"
 
 [download]
-url = "https://github.com/Draylar/identity/files/9393035/identity-2.5.1-1.19.1-fabric.zip"
+url = "https://cdn.discordapp.com/attachments/810959625306243095/1012843986232299581/identity-2.5.1-1.19.1-fabric.jar"
 hash-format = "sha1"
-hash = "6a04e5d2b4ffbcd9114d682acb7a1435d6eee62a"
+hash = "30e781d0c2290c7bb21c512237824becde11202b"
