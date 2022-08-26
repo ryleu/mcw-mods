@@ -263,6 +263,11 @@ hash = "e776612a117a948ebb1a6460f1996a0641276ee3c1596d78652da88f7a0bfec1"
 metafile = true
 
 [[files]]
+file = "mods/isnrmn.pw.toml"
+hash = "bf155761733c6536523427d1839e6cd8c4ea44561697656b39e7fecc6fcb4fa8"
+metafile = true
+
+[[files]]
 file = "mods/kibe.pw.toml"
 hash = "125b446a5760cb42a013c3774ea39f83dbda222c0154a3eac3867462bee87881"
 metafile = true
@@ -520,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tweaks.pw.toml"
-hash = "1c9fc1406ef521a5a0537a4a539fce11b3809dc21a9a2f07583ce762f7d4360c"
 metafile = true
 
 [[files]]
