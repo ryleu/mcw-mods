@@ -1,0 +1,27 @@
+name: Generate Pages
+on:
+  push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Copy Files
+        run: |
+          mkdir -p ./.build/${{ github.ref_name }}
+          cp -r ./* ./.build/${{ github.ref_name }}
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "./.build"
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./.build/
+          keep_files: true
+          full_commit_message: update pack
