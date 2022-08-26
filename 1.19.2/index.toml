@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "1df9f1101ba5c7d5d8231ed818d7c72ba34394306e4b24315dd29698f7d19f90"
+
+[[files]]
 file = "LICENSE"
 hash = "1de266c35e8e5b9b747747786ec642d3a133e72ee09fb625daf2262c0db32de5"
 
@@ -15,11 +19,6 @@ hash = "bffdbe9bc5b4417ac90bafc24c1971b64b76f33fef8e9270da9f8ef5f82ba0eb"
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
-metafile = true
-
-[[files]]
-file = "mods/ae2.pw.toml"
-hash = "3e7097344e7f7a1dc6fb80f2453fc4f80543115a23d132b2250be589e4cd0119"
 metafile = true
 
 [[files]]
