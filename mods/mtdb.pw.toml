@@ -1,0 +1,13 @@
+name = "Mending Tools Don't Break"
+filename = "mending-tools-dont-break-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3OMYe48S/versions/1.1.1/mending-tools-dont-break-1.1.1.jar"
+hash-format = "sha1"
+hash = "383e92eafd8b7a316fe72c3f255a101ff791ebbd"
+
+[update]
+[update.modrinth]
+mod-id = "3OMYe48S"
+version = "EUapFE1J"
