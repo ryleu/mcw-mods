@@ -1,0 +1,13 @@
+name = "MCWhores Mods"
+author = "ryleu"
+version = "1.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c7027d2616241ac82fb5c6dd69e4628f893fff4cab499b9384b2deb8c0b2822d"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"

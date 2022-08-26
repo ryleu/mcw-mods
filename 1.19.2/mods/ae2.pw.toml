@@ -1,0 +1,8 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-12.1.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AppliedEnergistics/Applied-Energistics-2/releases/download/fabric%2Fv12.1.2-beta/appliedenergistics2-12.1.2-beta.jar"
+hash-format = "sha1"
+hash = "824c7b937e81f1f418d47faf479e5a46902bcd23"
