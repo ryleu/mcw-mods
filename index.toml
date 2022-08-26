@@ -523,11 +523,6 @@ hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tweaks.pw.toml"
-hash = "1c9fc1406ef521a5a0537a4a539fce11b3809dc21a9a2f07583ce762f7d4360c"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
 hash = "de8ce62392e1bdcd03b431dc98aece1f3fece69d6d4393cf9c9c28596a0ec16a"
 metafile = true
