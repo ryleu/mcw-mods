@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/main.yml"
-hash = "1df9f1101ba5c7d5d8231ed818d7c72ba34394306e4b24315dd29698f7d19f90"
-
-[[files]]
 file = "LICENSE"
 hash = "1de266c35e8e5b9b747747786ec642d3a133e72ee09fb625daf2262c0db32de5"
 
