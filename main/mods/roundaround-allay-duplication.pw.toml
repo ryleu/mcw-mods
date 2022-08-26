@@ -1,0 +1,13 @@
+name = "Roundaround's Allay Duplication"
+filename = "allayduplication-1.0.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yKJxiOSo/versions/L4TbFhYM/allayduplication-1.0.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "19f293ee34f0c27c4797786a27dcffbb9c490d27"
+
+[update]
+[update.modrinth]
+mod-id = "yKJxiOSo"
+version = "L4TbFhYM"
