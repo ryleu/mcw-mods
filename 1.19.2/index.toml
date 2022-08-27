@@ -13,6 +13,14 @@ file = "config/identity.json5"
 hash = "8d6822f5b580e3879aef044f26976a221721832471ff5ea1ce24425ad6f26eea"
 
 [[files]]
+file = "datapacks/mcw_datapack/data/kibe/recipes/angel_ring.json"
+hash = "d1810a05061b06ef3ae1f1660a0c25ea3d24da91ab3fd94e4fedac1e868e525a"
+
+[[files]]
+file = "datapacks/mcw_datapack/pack.mcmeta"
+hash = "2ba111b9cf777d9c7e1d18e5eb0afae1af7fd1e7f5bc6c5eb85a66811ab24f64"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
@@ -220,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ca80e1629568d3e6019821f724f18c12ebebc960ccf2c7a6418ccf48bd909a4f"
+metafile = true
+
+[[files]]
+file = "mods/global-datapacks.pw.toml"
+hash = "7f3475dc44e85ec22f0aa37325c2fc6a56d38370fd197c0b1b7c1d7bde2f3fc7"
 metafile = true
 
 [[files]]
