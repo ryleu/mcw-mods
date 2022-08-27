@@ -308,11 +308,6 @@ hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
 metafile = true
 
 [[files]]
-file = "mods/moborigins.pw.toml"
-hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
-metafile = true
-
-[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "a70764358501f7bb3505df73ca79f46251e1d0144287eae55c8cf49fd27492c8"
 metafile = true
