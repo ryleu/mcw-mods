@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/identity.pw.toml"
-hash = "22a68cb89052c5c1fc5117381ea857be0b341ab6f0efe76507ddcc9787c6788a"
+hash = "94b4d254b872d4791ef60b9b5ced41a7e2157df358966245af833f0750c1390e"
 metafile = true
 
 [[files]]
