@@ -228,11 +228,6 @@ hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
 metafile = true
 
 [[files]]
-file = "mods/grounded-origins.pw.toml"
-hash = "118bcae586c303df5cdb6777623ec57324da430af1008b25281791cbd6fdc582"
-metafile = true
-
-[[files]]
 file = "mods/harvest-scythes.pw.toml"
 hash = "0f416da00d5aea40de1d7d38ca2512a30edc853b1f750e87a05ea43c915e21e4"
 metafile = true
