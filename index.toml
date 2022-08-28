@@ -361,11 +361,6 @@ hash = "3a8cdff45e534138516e48e1b0a1ae370f7c90f8e829d165175f8268a869ff95"
 metafile = true
 
 [[files]]
-file = "mods/online-detector.pw.toml"
-hash = "61cb01a9d8b1fe6972eaac9094b7718f1032c55e4b33c0ff6c3aa172261248d4"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "d5b2f9d8624b485a9730cc7ad5d73349e969231f40bc4afbc64a48ebff9b39c0"
 metafile = true
