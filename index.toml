@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e776612a117a948ebb1a6460f1996a0641276ee3c1596d78652da88f7a0bfec1"
+hash = "f8a9d53c82a8d49485b887ea7d28a182a258c9ad31e1e445e699de2f1827ebfe"
 metafile = true
 
 [[files]]
@@ -358,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "3a8cdff45e534138516e48e1b0a1ae370f7c90f8e829d165175f8268a869ff95"
-metafile = true
-
-[[files]]
-file = "mods/online-detector.pw.toml"
-hash = "61cb01a9d8b1fe6972eaac9094b7718f1032c55e4b33c0ff6c3aa172261248d4"
 metafile = true
 
 [[files]]
