@@ -85,6 +85,11 @@ hash = "6f16988803a6578af4838a9cf374634b749c28fa24bb887166c4f3ab4aa2e169"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "20b110bf79f7622045d4c653a60949ba8e961bef2c5b76dba44f4346b4b8b8a2"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
@@ -245,6 +250,11 @@ hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
 metafile = true
 
 [[files]]
+file = "mods/haema.pw.toml"
+hash = "614eb54c5abeeba07c6a6fd7f014f6d91c473c2c093888e9f74494dce0925625"
+metafile = true
+
+[[files]]
 file = "mods/harvest-scythes.pw.toml"
 hash = "0f416da00d5aea40de1d7d38ca2512a30edc853b1f750e87a05ea43c915e21e4"
 metafile = true
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
@@ -375,8 +390,13 @@ hash = "f2d4ffd080075ee4a28e60ab33793e49fd85515e77b6ff978d370fc928e6324c"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "8d37f266375e1a0eb9767862325d0aaf65e5508abf15ba4981444eabb28c9756"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
+hash = "0ff524728716da9f063f71bca08110f0c73a559ec7dc9c2061aa932ded0e7887"
 metafile = true
 
 [[files]]
