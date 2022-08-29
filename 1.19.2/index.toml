@@ -13,6 +13,10 @@ file = "config/identity.json5"
 hash = "8d6822f5b580e3879aef044f26976a221721832471ff5ea1ce24425ad6f26eea"
 
 [[files]]
+file = "datapacks/mcw_datapack/data/identity/tags/entity_types/flying.json"
+hash = "30307aa1cd686569f06bf82b9ba2d172a862634869ac3e883f63e4c214aa70c7"
+
+[[files]]
 file = "datapacks/mcw_datapack/data/kibe/recipes/angel_ring.json"
 hash = "d1810a05061b06ef3ae1f1660a0c25ea3d24da91ab3fd94e4fedac1e868e525a"
 
