@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "5a1cdca43c025e984bd5332859a2ec300b0871d12ea57b890a973ffa80ba98ff"
+hash = "7321ef1fe38cd8a0abe95a8c653c6dc2eddd07aee756e48de2522a87416ea620"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
-hash = "5ec675a032998514b884d38716fd875a1edc3cb3e47fc3c266b027f082c83f4c"
+hash = "af503180b1170eb9b739d25a7e4d9d8b804ad72e4f128773b67fa9b8ab9f8b93"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
+hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e776612a117a948ebb1a6460f1996a0641276ee3c1596d78652da88f7a0bfec1"
+hash = "f2691ea486d7d6b71494ef0f420513e51d87f2982ba98c1c046f10a2cd7a63be"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "bced73cfdaa0e28e92744b59d5ed2779a60a4b2ebd3bdb944b9cc4956da19814"
+hash = "68f33f291ece8fff8fe601841a7beb3b9b12348b3c3c1f1847cb4596a910b375"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "3a8cdff45e534138516e48e1b0a1ae370f7c90f8e829d165175f8268a869ff95"
+hash = "0f6ef79243435d4bd09f30f83719b00c1c71aa1d07927b0ef7d6a213f310bd3b"
 metafile = true
 
 [[files]]
@@ -386,13 +386,18 @@ hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "55da4dcdcdc4961d57d64d3604ca4bfa24bf6d50f48efab74404f7bdb540aaa3"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5455f7bb6ba36670d947b745c64cb5e152803173facb25f985cb0c90426d62d6"
+hash = "b610ac66419abb7fbf2e6be5ef1ad7d3dbdc0e1abc22d1de3a5d1fa2d7315e35"
 metafile = true
 
 [[files]]
@@ -442,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "8be12f26f3c35e22f25ba22c8f0904293a5af82707792890302e5b3671517497"
+hash = "ede486b183bf0198c938685b31807f23af4b60db3af413f1ecddb66d953be1c1"
 metafile = true
 
 [[files]]
@@ -522,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
+hash = "f07553f8d090820ace2b8030537d122fc87d9d3d5db5fe05991c0223b85c403b"
 metafile = true
 
 [[files]]
