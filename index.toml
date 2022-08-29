@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f8a9d53c82a8d49485b887ea7d28a182a258c9ad31e1e445e699de2f1827ebfe"
+hash = "37c9258d234ee05570d671a8a758986458578298fdaf3bd655fa6be05eb73872"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "0f6ef79243435d4bd09f30f83719b00c1c71aa1d07927b0ef7d6a213f310bd3b"
+hash = "9e5cd40ce78ea187d425ba5e910290ac60e137194aa6bdb1cfca4a136090c00e"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
