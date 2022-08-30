@@ -140,6 +140,11 @@ hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "bf9c6667b396a24d340e90311be9001817e2942b9eb693737473db6a5ac1257d"
+metafile = true
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "8c3e2d2daded9f35329f51b11f7d012ade15fb2a5eb47e2ac7c16d6ee736a132"
 metafile = true
