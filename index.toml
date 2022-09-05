@@ -10,7 +10,11 @@ hash = "f73f1f41b6c06b402c58090ddf4bac0482099b3ea51aaaf2581984181d7352bf"
 
 [[files]]
 file = "config/identity.json5"
-hash = "8d6822f5b580e3879aef044f26976a221721832471ff5ea1ce24425ad6f26eea"
+hash = "bf6db472b20330aeeb1c87771033dbdebd49c990cdeb84dddd604d8c21ca2afa"
+
+[[files]]
+file = "config/kibe.json"
+hash = "56738bee64061dbd7386a8ccce9f32dabe3c47305cb45b48ebbf5202572911a1"
 
 [[files]]
 file = "datapacks/mcw_datapack/data/identity/tags/entity_types/flying.json"
