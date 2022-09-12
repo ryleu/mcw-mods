@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
+hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components.pw.toml"
-hash = "f828dc128de01339afbf20db17e7db72e3794ec87a31f0c5bc60abb37edd37bb"
+hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "88b7f3a8623301333f7341c92eda39fd73349977065c047154ffdddbc2096d7e"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2c77cbb46a5f273a9f1c5da5bb94022c7b1560202c0c3802190958b28956a431"
+hash = "4c71686503225e97812bb5bb0b0022ec5144b4936344c99f3b4d3edaaf16f755"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ca80e1629568d3e6019821f724f18c12ebebc960ccf2c7a6418ccf48bd909a4f"
+hash = "9cdf601d15e1ac43c487b721988cd68e52eb17f629c1faaf716f3606c129a3b2"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "37c9258d234ee05570d671a8a758986458578298fdaf3bd655fa6be05eb73872"
+hash = "cff6e796418e21725c1b5ec6253e76ff94f2a7470f971888729e88f11fd4cdfd"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/lanterns-bow.pw.toml"
-hash = "3dbddba4f0988ee87a0ea5966fb670bf5313836f1d3f9cd4619bc0019c340f06"
+hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "9e5cd40ce78ea187d425ba5e910290ac60e137194aa6bdb1cfca4a136090c00e"
+hash = "75439d3e2f1eecb4805b414dd4564365e9294e1022e244dff8a7fc0f048666e1"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1c7321d83c9cfa99efd897040a52f263c846ef2b60c3c9cec97ac28ab799cad0"
+hash = "91f68c07ebcdb275fbb4c8138b40af83aaae4b882f7fa5b57337b496994f801d"
 metafile = true
 
 [[files]]
@@ -510,12 +510,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "a6b7d0ae07dafff196306a0b9ef92d85f600c720987ee6ed8a192dc0d8270850"
+hash = "ef7129f9c1fb44001e7cb7e2a7f0360cebc87e048aa3ef9e292cdffc4182d36f"
 metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "12d9738f53d601fdc9988fe4862a1410b123eb290ac3146c7f1993bd354d303c"
+hash = "32bee1f8707a7c37c35c337fde257edc27261d0a488392dc84f8484954dc9ebe"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/victus.pw.toml"
-hash = "efb4fa29713415c8299922363094cb692cd0bc6f88bc2f29f40d2fd4841b757e"
+hash = "52a598f2d47de2b5b6a2d7739250fce2b9baf5d05fe132106ae7df902f91417c"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "57a365176d1b7743554604cf9dfd4b023ea1f82415f7066d6136841ab6dc6968"
+hash = "4f8c286086b1afb6fb437ef0499d1bac1cf668bb43278cf9c58025e87f6fabb0"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0558c653fc64ef54d493d0f20b20e2599ae70edcaf727af090ff098b9dd9fd64"
+hash = "74fb9e8174adc537ac89947dc970bfff81e0c048a0e23c2250195afb7ad4154e"
 metafile = true
 
 [[files]]
