@@ -1,13 +1,13 @@
 name = "Qu Enchantments"
-filename = "qu-enchantments-1.2.3-1.19.jar"
+filename = "qu-enchantments-1.2.4-1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5RGE5YW5/versions/HeRpu3la/qu-enchantments-1.2.3-1.19.jar"
+url = "https://cdn.modrinth.com/data/5RGE5YW5/versions/MStc8Dl4/qu-enchantments-1.2.4-1.19.jar"
 hash-format = "sha1"
-hash = "a4bc5c36f146362f0c538163a26b6515330eef91"
+hash = "c3a1700225ea8bd3894da6f4ad53e76c73a1ae15"
 
 [update]
 [update.modrinth]
 mod-id = "5RGE5YW5"
-version = "HeRpu3la"
+version = "MStc8Dl4"

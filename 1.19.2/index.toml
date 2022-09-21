@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/capybara-fabric.pw.toml"
-hash = "f2eb74d6653448115cb5861ff662b0cf7af24c6a998a4c3ec30377c1a99080fc"
+hash = "d5e66198a70f51e8d58b6a0af8a8bbb5aace629bab18c068b1a3441d156326f3"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "07fe98fb65b17e13acf933562cdc0c4b25df96b8220b026e736b507d2b1ed453"
+hash = "4e36c43a116b7631d023449b6e2f2f05d5fbd9592d8a857292e0c0a5f69ac817"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "9cdf601d15e1ac43c487b721988cd68e52eb17f629c1faaf716f3606c129a3b2"
+hash = "b5308f75e94b00f74deb0fbda23a9b16f7b583759a3545ec3339c669cfcb07f0"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "0051fefa10d4abd486f02513b86e7c8b7ee24d69dac182c421548d7ec7617f42"
+hash = "8f25bcf2861e14d911472dc7f55087a156bd948bc6322e530d91cf46e5c26579"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
+hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
 metafile = true
 
 [[files]]
@@ -440,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "34f645ce10eba8a4e04e832969af564132bbe51e6717be2c33944baab0cac111"
+hash = "2dd8053911330a4605dfd79137a5350b3f35a2c44c64635dd382cd2d581b20e9"
 metafile = true
 
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
-hash = "37d64f83998f02e17d2800bf75058ff633d4e5bce868bf01975d15b8362ce992"
+hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "ef7129f9c1fb44001e7cb7e2a7f0360cebc87e048aa3ef9e292cdffc4182d36f"
+hash = "2f8aa07b77b6e04855deb0178e57a4f3c7a995bf88281ebba18858c584114e9f"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "1968f8fe5ea24bb78b64659c4c937d2cd5ed54fe804939cdab2a56e0db47e437"
+hash = "f2ccd85022b980eff007b6f8a83f3c1da73748b1af38d0b96d65022cffa8659c"
 metafile = true
 
 [[files]]
