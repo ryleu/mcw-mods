@@ -1,8 +1,0 @@
-name = "Identity"
-filename = "identity-2.5.1-1.19.1-fabric.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/810959625306243095/1012843986232299581/identity-2.5.1-1.19.1-fabric.jar"
-hash-format = "sha1"
-hash = "30e781d0c2290c7bb21c512237824becde11202b"
