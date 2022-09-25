@@ -17,10 +17,6 @@ file = "config/kibe.json"
 hash = "56738bee64061dbd7386a8ccce9f32dabe3c47305cb45b48ebbf5202572911a1"
 
 [[files]]
-file = "datapacks/mcw_datapack/data/identity/tags/entity_types/flying.json"
-hash = "30307aa1cd686569f06bf82b9ba2d172a862634869ac3e883f63e4c214aa70c7"
-
-[[files]]
 file = "datapacks/mcw_datapack/data/kibe/recipes/angel_ring.json"
 hash = "d1810a05061b06ef3ae1f1660a0c25ea3d24da91ab3fd94e4fedac1e868e525a"
 
@@ -276,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/hookshot.pw.toml"
 hash = "81011c800f5233b543facf1072ecf59a67a3f49fde819e6dd40b1aba1f85b9ee"
-metafile = true
-
-[[files]]
-file = "mods/identity.pw.toml"
-hash = "94b4d254b872d4791ef60b9b5ced41a7e2157df358966245af833f0750c1390e"
 metafile = true
 
 [[files]]
