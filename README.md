@@ -1,3 +1,3 @@
 # mcw-mods
 
-minecraft modpack for the mcwhores private server
+minecraft modpacks for private servers
