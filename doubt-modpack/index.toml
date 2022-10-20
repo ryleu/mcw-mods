@@ -404,11 +404,6 @@ hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "7bcbd5e0a7cb891bdeb140283a97aabccbf45c597611edf7953a656f509fd740"
-metafile = true
-
-[[files]]
 file = "mods/mtdb.pw.toml"
 hash = "82c2644e4502009fa330e6b923f3f4287955cc3b816cf00e11884823e6bc9f63"
 metafile = true
