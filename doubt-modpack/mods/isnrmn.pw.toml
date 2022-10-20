@@ -1,0 +1,13 @@
+name = "Item Suggestions Not Require Mod Name"
+filename = "item-suggestions-not-require-mod-name-v1_03.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hpqXcCJq/versions/v1_03/item-suggestions-not-require-mod-name-v1_03.jar"
+hash-format = "sha1"
+hash = "a136d332ba3941753f7d4036f6295628e4315bdc"
+
+[update]
+[update.modrinth]
+mod-id = "hpqXcCJq"
+version = "nfT9rJFc"
