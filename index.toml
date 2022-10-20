@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
 
 [[files]]
@@ -231,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "578ff9c4a911659805cc838b936a2cba1a14bb54ff911a7771a112544599988c"
 metafile = true
 
 [[files]]
