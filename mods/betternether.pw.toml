@@ -1,13 +1,13 @@
 name = "BetterNether"
-filename = "better-nether-7.1.0.jar"
+filename = "better-nether-7.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01e9a9df5917927fc7f1b2dfda04989348202895"
+hash = "7f766a2302213f383f8148a4268a8a9b928d9d3f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3938173
+file-id = 4025997
 project-id = 311377
