@@ -1,0 +1,13 @@
+name = "Farmer's Knives [Fabric]"
+filename = "farmersknives-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f51e76c8a245eafa5b739bd117f04831c7370db4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3939790
+project-id = 628972
