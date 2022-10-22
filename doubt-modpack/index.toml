@@ -574,11 +574,6 @@ hash = "49d7ddc547f40b3f16502f5d1fb23b0a674e3f6734d981bb5027bc75e0f4ce8a"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "7f2cbac07e54db904dc31f4e22f338aa647f811c4836d41f8f0b789856681eda"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "e52817378d462a9131f0743a4a64c26fcd1b1c1947bdc161d9104fcaa54ed177"
 metafile = true
