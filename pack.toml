@@ -1,4 +1,4 @@
-name = "MCWhores Mods"
+name = "doubt pack"
 author = "ryleu"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "85d7370c0005616474c5f0dbb99d3a9919eb28d7ad384189881dccb9c5ca3d2e"
+hash = "0dd4540cb9619103200bbcad9c86c395ea340b73a925c3b937b19cb2e1c6ed91"
 
 [versions]
 fabric = "0.14.9"
