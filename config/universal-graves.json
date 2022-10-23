@@ -1,0 +1,51 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 2,
+  "graveStyle": "player_head",
+  "allowClientSideStyle": true,
+  "playerHeadTurnIntoSkulls": true,
+  "presetHeadLockedTexture": "...",
+  "presetHeadUnlockedTexture": "...",
+  "customBlockStateLockedStyles": ["..."],
+  "customBlockStateUnlockedStyles": ["..."],
+  "isProtected": true,
+  "protectionTime": 300,
+  "breakingTime": -1
+  "breakEmptyGraves": true,
+  "xpStorageType": "vanilla",
+  "xpPercentTypeValue": 100.0,
+  "replaceAnyBlock": true,
+  "maxPlacementDistance": 8,
+  "useRealTime": false,
+  "createFromPvP": true
+  "createFromVoid": true,
+  "createFromCommandDeaths": true,
+  "createInClaims": true,
+  "dropItemsAfterExpiring": true,
+  "allowAttackersToTakeItems": false,
+  "shiftClickTakesItems": true,
+  "giveGraveCompass": true,
+  "graveTitle": "...",
+  "hologram": true,
+  "hologramDisplayIfOnClient": true,
+  "hologramOffset": 1.2,
+  "hologramProtectedText": [/*...*/],
+  "hologramText": [/*...*/],
+  "guiTitle": "...",
+  "guiProtectedText": [/*...*/],
+  "guiText": [/*...*/],
+  "message[Type]": "...",
+  "guiProtectedItem": [/*...*/],
+  "guiItem": [/*...*/],
+  "[time-type]Text": "...",
+  "worldNameOverrides": {
+    "world:id": "WorldName"
+    /* and others */
+  },
+  "blacklistedWorlds": [
+    /*...*/
+  ],
+  "tryDetectionSoulbound": true,
+  "skippedEnchantments": [
+    /*...*/
+  ]          
+}
